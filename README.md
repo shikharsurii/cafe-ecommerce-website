@@ -3,12 +3,6 @@ A fully responsive, café-themed **e-commerce frontend** built using **HTML**, *
 
 ---
 
-## ​ Live Demo
-View it live on GitHub Pages:  
-https://shikharsurii.github.io/cafe-ecommerce-website/ *(replace with your actual Pages URL if different)*
-
----
-
 ##  Features
 - **Responsive Design**: Works seamlessly across desktop, tablet, and mobile devices.
 - **Modular Layout**: Separate pages for Home, About, Contact, Menu, Cart, etc.
@@ -25,5 +19,5 @@ https://shikharsurii.github.io/cafe-ecommerce-website/ *(replace with your actua
 
 ---
 
-##  Project Organization
+
 
